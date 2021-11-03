@@ -82,6 +82,7 @@
 Best perfamance and documented project structure. High-quality and clean code with best practise.
 
 UI: Material-UI, Antd-UI, Chakra-UI, Kendo-UI, Bootstrap, TailwindCSS...
+
 DB: MySQL, MongoDB/NoSQL, SQLite
 
 ### Talented in Third-party API integration.
