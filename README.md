@@ -78,11 +78,14 @@
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
  
-### 𝘉𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘢𝘯 𝘌𝘊 𝘴𝘪𝘵𝘦 𝘧𝘰𝘳 𝘣𝘶𝘴𝘪𝘯𝘦𝘴𝘴
-𝘐𝘵 𝘪𝘴 𝘱𝘰𝘴𝘴𝘪𝘣𝘭𝘦 𝘵𝘰 𝘤𝘳𝘦𝘢𝘵𝘦 𝘢𝘯 𝘌𝘊 𝘴𝘪𝘵𝘦 𝘢𝘯𝘥 𝘪𝘵𝘴 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯. 𝘊𝘰𝘮𝘱𝘢𝘵𝘪𝘣𝘭𝘦 𝘸𝘪𝘵𝘩 𝘦𝘢𝘤𝘩 𝘱𝘭𝘢𝘵𝘧𝘰𝘳𝘮.
+### Lightweight webpsolution with MERN Stack, Vue+Laravel.
+Best perfamance and documented project structure. High-quality and clean code with best practise.
 
-### Speedy 𝘞𝘦𝘣 𝘱𝘳𝘰𝘥𝘶𝘤𝘵𝘪𝘰𝘯
-𝘞𝘦 𝘤𝘢𝘯 𝘢𝘭𝘴𝘰 𝘥𝘦𝘷𝘦𝘭𝘰𝘱 𝘏𝘗, 𝘓𝘗, 𝘢𝘯𝘥 𝘞𝘌𝘉 𝘴𝘦𝘳𝘷𝘪𝘤𝘦𝘴.
+UI: Material-UI, Antd-UI, Chakra-UI, Kendo-UI, Bootstrap, TailwindCSS...
+DB: MySQL, MongoDB/NoSQL, SQLite
+
+### Talented in Third-party API integration.
+Google Auth API, Google Maps API, Twillo, Sendgrid, Stripe, Paypal, DigitalOcean, Netlify, AWS...
 
 ### 𝘗𝘊 𝘢𝘯𝘥 𝘚𝘗 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴
 𝘐𝘵 𝘤𝘢𝘯 𝘣𝘦 𝘱𝘳𝘰𝘥𝘶𝘤𝘦𝘥 𝘪𝘯𝘦𝘹𝘱𝘦𝘯𝘴𝘪𝘷𝘦𝘭𝘺 𝘢𝘯𝘥 𝘲𝘶𝘪𝘤𝘬𝘭𝘺. 𝘞𝘦 𝘢𝘳𝘦 𝘢𝘭𝘴𝘰 𝘨𝘰𝘰𝘥 𝘢𝘵 𝘴𝘤𝘳𝘢𝘱𝘪𝘯𝘨 𝘸𝘩𝘦𝘯 𝘪𝘵 𝘤𝘰𝘮𝘦𝘴 𝘵𝘰 𝘗𝘊𝘴.
